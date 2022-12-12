@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Sharfuddin123
+- 👋 Hi there, I’m Sharfuddin Ansari
 - 👀 I’m interested in Data Analyst and Cyber Security
-- 🌱 I’m currently learning Google Data Analytics and CISSP in Cyber Security
+- 🌱 I have completed Google Data Analytics Certificate
 - 📫 How to reach me saifcelltel@gmail.com
 
 <!---
